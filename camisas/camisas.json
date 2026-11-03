@@ -1,0 +1,462 @@
+{
+ "jogo": {
+  "frente": {
+   "largura": 805,
+   "altura": 1041,
+   "folga": 48,
+   "haste": 0.4953,
+   "corpo": 0.2013,
+   "alturaReal": 945,
+   "larguraReal": 709,
+   "medida": {
+    "esq": 0.2273,
+    "dir": 0.7801,
+    "y": 0.6081,
+    "gola": 0.2478,
+    "barra": 0.9452
+   },
+   "peca": {
+    "largura": 805,
+    "altura": 904,
+    "folga": 48,
+    "haste": 0.4953,
+    "desce": 137,
+    "alturaReal": 808,
+    "larguraReal": 709
+   }
+  },
+  "perfil": {
+   "largura": 286,
+   "altura": 1051,
+   "folga": 48,
+   "haste": 0.465,
+   "corpo": 0.2264,
+   "alturaReal": 955,
+   "larguraReal": 190,
+   "peca": {
+    "largura": 286,
+    "altura": 918,
+    "folga": 48,
+    "haste": 0.465,
+    "desce": 133,
+    "alturaReal": 822,
+    "larguraReal": 190
+   }
+  },
+  "malha": "jogo"
+ },
+ "chama": {
+  "frente": {
+   "largura": 804,
+   "altura": 1040,
+   "folga": 48,
+   "haste": 0.4953,
+   "corpo": 0.2025,
+   "alturaReal": 944,
+   "larguraReal": 708,
+   "medida": {
+    "esq": 0.209,
+    "dir": 0.7898,
+    "y": 0.6087,
+    "gola": 0.25,
+    "barra": 0.9433
+   },
+   "peca": {
+    "largura": 804,
+    "altura": 904,
+    "folga": 48,
+    "haste": 0.4953,
+    "desce": 136,
+    "alturaReal": 808,
+    "larguraReal": 708
+   }
+  },
+  "perfil": {
+   "largura": 276,
+   "altura": 1044,
+   "folga": 48,
+   "haste": 0.4692,
+   "corpo": 0.2302,
+   "alturaReal": 948,
+   "larguraReal": 180,
+   "peca": {
+    "largura": 276,
+    "altura": 920,
+    "folga": 48,
+    "haste": 0.4692,
+    "desce": 124,
+    "alturaReal": 824,
+    "larguraReal": 180
+   }
+  },
+  "malha": "chama"
+ },
+ "listra": {
+  "frente": {
+   "largura": 714,
+   "altura": 1027,
+   "folga": 48,
+   "haste": 0.4986,
+   "corpo": 0.1892,
+   "alturaReal": 931,
+   "larguraReal": 618,
+   "medida": {
+    "esq": 0.2577,
+    "dir": 0.7465,
+    "y": 0.6086,
+    "gola": 0.2376,
+    "barra": 0.851
+   },
+   "peca": {
+    "largura": 714,
+    "altura": 877,
+    "folga": 48,
+    "haste": 0.4986,
+    "desce": 150,
+    "alturaReal": 781,
+    "larguraReal": 618
+   }
+  },
+  "perfil": {
+   "largura": 254,
+   "altura": 1046,
+   "folga": 48,
+   "haste": 0.4587,
+   "corpo": 0.2129,
+   "alturaReal": 950,
+   "larguraReal": 158,
+   "peca": {
+    "largura": 254,
+    "altura": 912,
+    "folga": 48,
+    "haste": 0.4587,
+    "desce": 134,
+    "alturaReal": 816,
+    "larguraReal": 158
+   }
+  },
+  "malha": "listra"
+ },
+ "acida": {
+  "frente": {
+   "largura": 807,
+   "altura": 1042,
+   "folga": 48,
+   "haste": 0.4926,
+   "corpo": 0.2011,
+   "alturaReal": 946,
+   "larguraReal": 711,
+   "medida": {
+    "esq": 0.2131,
+    "dir": 0.7856,
+    "y": 0.6084,
+    "gola": 0.2466,
+    "barra": 0.9472
+   },
+   "peca": {
+    "largura": 807,
+    "altura": 893,
+    "folga": 48,
+    "haste": 0.4926,
+    "desce": 149,
+    "alturaReal": 797,
+    "larguraReal": 711
+   }
+  },
+  "perfil": {
+   "largura": 290,
+   "altura": 1045,
+   "folga": 48,
+   "haste": 0.4603,
+   "corpo": 0.2416,
+   "alturaReal": 949,
+   "larguraReal": 194,
+   "peca": {
+    "largura": 290,
+    "altura": 911,
+    "folga": 48,
+    "haste": 0.4603,
+    "desce": 134,
+    "alturaReal": 815,
+    "larguraReal": 194
+   }
+  },
+  "malha": "acida"
+ },
+ "tribal": {
+  "frente": {
+   "largura": 813,
+   "altura": 1038,
+   "folga": 48,
+   "haste": 0.5006,
+   "corpo": 0.2019,
+   "alturaReal": 942,
+   "larguraReal": 717,
+   "medida": {
+    "esq": 0.2091,
+    "dir": 0.8192,
+    "y": 0.6089,
+    "gola": 0.2486,
+    "barra": 0.9412
+   },
+   "peca": {
+    "largura": 813,
+    "altura": 891,
+    "folga": 48,
+    "haste": 0.5006,
+    "desce": 147,
+    "alturaReal": 795,
+    "larguraReal": 717
+   }
+  },
+  "perfil": {
+   "largura": 292,
+   "altura": 1055,
+   "folga": 48,
+   "haste": 0.4726,
+   "corpo": 0.2411,
+   "alturaReal": 959,
+   "larguraReal": 196,
+   "peca": {
+    "largura": 292,
+    "altura": 924,
+    "folga": 48,
+    "haste": 0.4726,
+    "desce": 131,
+    "alturaReal": 828,
+    "larguraReal": 196
+   }
+  },
+  "malha": "tribal"
+ },
+ "chama-gelo": {
+  "frente": {
+   "largura": 804,
+   "altura": 1040,
+   "folga": 48,
+   "haste": 0.4953,
+   "corpo": 0.2025,
+   "alturaReal": 944,
+   "larguraReal": 708,
+   "medida": {
+    "esq": 0.209,
+    "dir": 0.7898,
+    "y": 0.6087,
+    "gola": 0.25,
+    "barra": 0.9433
+   },
+   "peca": {
+    "largura": 804,
+    "altura": 904,
+    "folga": 48,
+    "haste": 0.4953,
+    "desce": 136,
+    "alturaReal": 808,
+    "larguraReal": 708
+   }
+  },
+  "perfil": {
+   "largura": 276,
+   "altura": 1044,
+   "folga": 48,
+   "haste": 0.4692,
+   "corpo": 0.2302,
+   "alturaReal": 948,
+   "larguraReal": 180,
+   "peca": {
+    "largura": 276,
+    "altura": 920,
+    "folga": 48,
+    "haste": 0.4692,
+    "desce": 124,
+    "alturaReal": 824,
+    "larguraReal": 180
+   }
+  },
+  "malha": "chama"
+ },
+ "acida-mar": {
+  "frente": {
+   "largura": 807,
+   "altura": 1042,
+   "folga": 48,
+   "haste": 0.4926,
+   "corpo": 0.2011,
+   "alturaReal": 946,
+   "larguraReal": 711,
+   "medida": {
+    "esq": 0.2131,
+    "dir": 0.7856,
+    "y": 0.6084,
+    "gola": 0.2466,
+    "barra": 0.9472
+   },
+   "peca": {
+    "largura": 807,
+    "altura": 893,
+    "folga": 48,
+    "haste": 0.4926,
+    "desce": 149,
+    "alturaReal": 797,
+    "larguraReal": 711
+   }
+  },
+  "perfil": {
+   "largura": 290,
+   "altura": 1045,
+   "folga": 48,
+   "haste": 0.4603,
+   "corpo": 0.2416,
+   "alturaReal": 949,
+   "larguraReal": 194,
+   "peca": {
+    "largura": 290,
+    "altura": 911,
+    "folga": 48,
+    "haste": 0.4603,
+    "desce": 134,
+    "alturaReal": 815,
+    "larguraReal": 194
+   }
+  },
+  "malha": "acida"
+ },
+ "tribal-salvia": {
+  "frente": {
+   "largura": 813,
+   "altura": 1038,
+   "folga": 48,
+   "haste": 0.5006,
+   "corpo": 0.2019,
+   "alturaReal": 942,
+   "larguraReal": 717,
+   "medida": {
+    "esq": 0.2091,
+    "dir": 0.8192,
+    "y": 0.6089,
+    "gola": 0.2486,
+    "barra": 0.9412
+   },
+   "peca": {
+    "largura": 813,
+    "altura": 891,
+    "folga": 48,
+    "haste": 0.5006,
+    "desce": 147,
+    "alturaReal": 795,
+    "larguraReal": 717
+   }
+  },
+  "perfil": {
+   "largura": 292,
+   "altura": 1055,
+   "folga": 48,
+   "haste": 0.4726,
+   "corpo": 0.2411,
+   "alturaReal": 959,
+   "larguraReal": 196,
+   "peca": {
+    "largura": 292,
+    "altura": 924,
+    "folga": 48,
+    "haste": 0.4726,
+    "desce": 131,
+    "alturaReal": 828,
+    "larguraReal": 196
+   }
+  },
+  "malha": "tribal"
+ },
+ "jogo-rubro": {
+  "frente": {
+   "largura": 805,
+   "altura": 1041,
+   "folga": 48,
+   "haste": 0.4953,
+   "corpo": 0.2013,
+   "alturaReal": 945,
+   "larguraReal": 709,
+   "medida": {
+    "esq": 0.2273,
+    "dir": 0.7801,
+    "y": 0.6081,
+    "gola": 0.2478,
+    "barra": 0.9452
+   },
+   "peca": {
+    "largura": 805,
+    "altura": 904,
+    "folga": 48,
+    "haste": 0.4953,
+    "desce": 137,
+    "alturaReal": 808,
+    "larguraReal": 709
+   }
+  },
+  "perfil": {
+   "largura": 286,
+   "altura": 1051,
+   "folga": 48,
+   "haste": 0.465,
+   "corpo": 0.2264,
+   "alturaReal": 955,
+   "larguraReal": 190,
+   "peca": {
+    "largura": 286,
+    "altura": 918,
+    "folga": 48,
+    "haste": 0.465,
+    "desce": 133,
+    "alturaReal": 822,
+    "larguraReal": 190
+   }
+  },
+  "malha": "jogo"
+ },
+ "listra-marinho": {
+  "frente": {
+   "largura": 714,
+   "altura": 1027,
+   "folga": 48,
+   "haste": 0.4986,
+   "corpo": 0.1892,
+   "alturaReal": 931,
+   "larguraReal": 618,
+   "medida": {
+    "esq": 0.2577,
+    "dir": 0.7465,
+    "y": 0.6086,
+    "gola": 0.2376,
+    "barra": 0.851
+   },
+   "peca": {
+    "largura": 714,
+    "altura": 877,
+    "folga": 48,
+    "haste": 0.4986,
+    "desce": 150,
+    "alturaReal": 781,
+    "larguraReal": 618
+   }
+  },
+  "perfil": {
+   "largura": 254,
+   "altura": 1046,
+   "folga": 48,
+   "haste": 0.4587,
+   "corpo": 0.2129,
+   "alturaReal": 950,
+   "larguraReal": 158,
+   "peca": {
+    "largura": 254,
+    "altura": 912,
+    "folga": 48,
+    "haste": 0.4587,
+    "desce": 134,
+    "alturaReal": 816,
+    "larguraReal": 158
+   }
+  },
+  "malha": "listra"
+ }
+}
