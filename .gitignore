@@ -1,0 +1,14 @@
+# dependências e builds
+node_modules/
+site/dist/
+
+# material bruto (imagens originais da IA) e saídas das ferramentas ficam só no computador;
+# o site usa as versões recortadas em site/public/camisas
+/material/
+ferramentas/shots/
+
+# anotações internas do projeto
+/PACOTE-DE-DESIGN.md
+
+*.log
+.DS_Store
